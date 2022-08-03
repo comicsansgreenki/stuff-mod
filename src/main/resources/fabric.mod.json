@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "id": "csansgstuff",
-  "version": "${version}",
+  "id": "comicsansg-stuff",
+  "version": "1.0.0",
 
   "name": "comicsansg's stuff.",
   "description": "Stuff. That I like. May or may not include Fortnite consumables.",
@@ -9,21 +9,20 @@
     "comicsansgreenki"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/comicsansgreenki/stuff-mod"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "gpl-3.0",
+  "icon": "assets/comicsansg-stuff/logo.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.comicsansg.stuff.ComicsansgStuff"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
@@ -33,6 +32,5 @@
     "java": ">=17"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }
