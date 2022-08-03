@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "comicsansg-stuff",
+  "version": "1.0.0",
+
+  "name": "comicsansg's stuff.",
+  "description": "Stuff. That I like. May or may not include Fortnite consumables.",
+  "authors": [
+    "comicsansgreenki"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/comicsansgreenki/stuff-mod"
+  },
+
+  "license": "gpl-3.0",
+  "icon": "assets/comicsansg-stuff/logo.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.comicsansg.stuff.ComicsansgStuff"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+  }
+}
