@@ -1,9 +1,12 @@
-# Fabric Example Mod
+# comicsansg's stuff mod
 
-## Setup
+## watchu planning?
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+So far...uh...not much else other than a selection of Fortnite consumables, which are currently:
+* Chug Splash
+* Small Shield Potion
+* Shield Potion
+* Guzzle Juice
+* Shield Keg...maybe *(tbh I could just steal the lingering potion effect for this one)*
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This is my first attempt into a mod, so I hope all goes well. Help welcome.
