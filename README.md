@@ -9,5 +9,6 @@ So far...uh...not much else other than a selection of Fortnite consumables, whic
 * Shield Potion
 * Guzzle Juice
 * Shield Keg...maybe *(tbh I could just steal the lingering potion effect for this one)*
+Although, I'm planning to do a lot more with this. Basically just throw what I like in this mod, in one nice package.
 
 **This is my first attempt into a mod, so I hope all goes well.** Help welcome.
